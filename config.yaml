@@ -12,10 +12,10 @@
 carpentry: "incubator"
 
 # Overall title for pages.
-title: "ARCHER2 Introduction to HPC Software Carpentry"
+title: "ARCHER2 Introduction to HPC"
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2024-06-20
+created: 2024-10-29
 
 # Comma-separated list of keywords for the lesson
 keywords: "software, data, lesson, The Carpentries, HPC, EPCC"
@@ -28,7 +28,7 @@ life_cycle: "beta"
 license: "CC-BY 4.0"
 
 # Link to the source repository for this lesson
-source: "https://github.com/EPCCed/2024-06-20-hpc-intro-shampton"
+source: "https://github.com/EPCCed/2024-11-06-archer2-hpc-intro"
 
 # Default branch of your lesson
 branch: "main"
