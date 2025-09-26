@@ -2,6 +2,8 @@
 title: "Contributor Code of Conduct"
 ---
 
+When registering for one of our courses you agree to abide by the ARCHER2 [Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct) 
+
 As contributors and maintainers of this project,
 we pledge to follow the [The Carpentries Code of Conduct][coc].
 
